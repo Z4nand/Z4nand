@@ -1,9 +1,11 @@
-## Hi there 👋
+## Всем привет 👋
 
+**Обо мне:** Когда вырасту, хочу стать дата сайнтистом 😄
 <!--
 **Z4nand/Z4nand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+**Образование:** (бакалавр) ОмГТУ направления Математическое обеспечение и администрирование информационных систем. 2020-2024.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
